@@ -9,3 +9,6 @@ Program wylicza nam objętość ale z dokladnośc jest troche nie nieprecyzyjny 
 a nie 3,14.
 
 PROFIT
+
+![image](https://user-images.githubusercontent.com/71015266/169688165-ef46ef33-f2d9-439c-a799-15d1e75f612c.png)
+
